@@ -1,7 +1,7 @@
 # ios-posts-assessment
 This is a technical assessment for iOS senior developer for Megabite Food, this project is a demo implementation requested by one of the interviewers.    
 
-**The deadline for do it are 3 hours after attendant starting time confirmation
+**The deadline for do it are 3 hours after attendant starting time confirmation**
 
 
 ## Requirements
