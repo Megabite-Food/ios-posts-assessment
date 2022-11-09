@@ -11,6 +11,7 @@ Code follows SOLID principles and should be easily testable.
  -  GitHub account
  -  Three hour available for developing
  -  Fork this project
+ -  SWIFT only
  -  Comment your code and commits
  -  Finally. send a Pull Request to this project y notify us through email to lespinoza@megabitefood.com with subject: [nombre]_[apellido]-ios_posts_assessment.
 
