@@ -3,8 +3,6 @@ This is a technical assessment for iOS senior developer for Megabite Food, this 
 
 **The deadline for do it are 3 hours after attendant starting time confirmation
 
-App architecture is based on DDD and one-way data flow (redux like).    
-Code follows SOLID principles and should be easily testable.
 
 ## Requirements
 
@@ -12,6 +10,8 @@ Code follows SOLID principles and should be easily testable.
  -  Three hour available for developing
  -  Fork this project
  -  SWIFT only
+ -  App architecture is based on DDD and one-way data flow (redux like).
+ -  Code follows SOLID principles
  -  Comment your code and commits
  -  Finally. send a Pull Request to this project y notify us through email to lespinoza@megabitefood.com with subject: [nombre]_[apellido]-ios_posts_assessment.
 
