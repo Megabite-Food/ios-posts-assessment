@@ -3,6 +3,8 @@ This is a technical assessment for iOS senior developer for Megabite Food, this 
 
 **The deadline for do it are 3 hours after attendant starting time confirmation**
 
+App architecture is based on DDD and one-way data flow (redux like).
+Code follows SOLID principles and should be easily testable.
 
 ## Requirements
 
